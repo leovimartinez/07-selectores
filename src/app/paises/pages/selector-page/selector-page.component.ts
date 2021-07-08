@@ -77,7 +77,6 @@ export class SelectorPageComponent implements OnInit {
   }
 
   
-
   guardar(){
     console.log(this.miFormulario.value);
   }
